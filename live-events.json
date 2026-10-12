@@ -8,7 +8,7 @@
       "category": "Worship",
       "dayOfWeek": 0,
       "startTime": "10:00",
-      "endTime": "01:30",
+      "endTime": "13:30",
       "location": "Main Sanctuary + Online",
       "streamUrl": "https://www.youtube.com/@dlbclaurelmaryland",
       "description": "Join us for Sunday worship."
@@ -22,6 +22,17 @@
       "location": "Zoom Online",
       "streamUrl": "https://zoom.us/j/3106916895",
       "description": "Midweek teaching."
+    },
+    
+    {
+      "title": "Wednesday Fasting and Prayer",
+      "category": "Groups",
+      "dayOfWeek": 1,
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "location": "Zoom Online",
+      "streamUrl": "https://zoom.us/j/3106916895",
+      "description": "Payer."
     },
     
     {
