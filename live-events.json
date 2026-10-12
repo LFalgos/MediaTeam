@@ -1,0 +1,42 @@
+{
+  "timeZone": "America/New_York",
+  "scheduleUrl": "#events",
+  "defaultStreamUrl": "https://www.youtube.com/",
+  "events": [
+    {
+      "title": "Sunday Worship Online",
+      "category": "Worship",
+      "dayOfWeek": 0,
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "location": "Main Sanctuary + Online",
+      "streamUrl": "https://www.youtube.com/",
+      "description": "Join us for Sunday worship."
+    },
+    {
+      "title": "Wednesday Bible Study",
+      "category": "Groups",
+      "dayOfWeek": 3,
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "location": "Fellowship Hall",
+      "description": "Midweek teaching and community."
+    },
+    {
+      "title": "Community Serve Day",
+      "category": "Outreach",
+      "start": "2026-10-24T09:00:00-04:00",
+      "end": "2026-10-24T12:00:00-04:00",
+      "location": "Community Center",
+      "description": "Help serve our neighbors."
+    },
+    {
+      "title": "Christmas Eve Service",
+      "category": "Worship",
+      "start": "2026-12-24T18:00:00-05:00",
+      "end": "2026-12-24T19:30:00-05:00",
+      "location": "Main Sanctuary",
+      "streamUrl": "https://www.youtube.com/"
+    }
+  ]
+}
