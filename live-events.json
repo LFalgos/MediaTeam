@@ -1,42 +1,46 @@
 {
   "timeZone": "America/New_York",
   "scheduleUrl": "#events",
-  "defaultStreamUrl": "https://www.youtube.com/",
+  "defaultStreamUrl": "https://www.youtube.com/@dlbclaurelmaryland",
   "events": [
     {
       "title": "Sunday Worship Online",
       "category": "Worship",
       "dayOfWeek": 0,
-      "startTime": "11:00",
-      "endTime": "12:30",
+      "startTime": "10:00",
+      "endTime": "01:30",
       "location": "Main Sanctuary + Online",
-      "streamUrl": "https://www.youtube.com/",
+      "streamUrl": "https://www.youtube.com/@dlbclaurelmaryland",
       "description": "Join us for Sunday worship."
     },
     {
-      "title": "Wednesday Bible Study",
+      "title": "Monday Bible Study",
       "category": "Groups",
-      "dayOfWeek": 3,
-      "startTime": "19:00",
+      "dayOfWeek": 1,
+      "startTime": "18:30",
       "endTime": "20:00",
-      "location": "Fellowship Hall",
-      "description": "Midweek teaching and community."
+      "location": "Zoom Online",
+      "streamUrl": "https://zoom.us/j/3106916895",
+      "description": "Midweek teaching."
+    },
+    
+    {
+      "title": "Friday Revival Service",
+      "category": "Groups",
+      "dayOfWeek": 5,
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "location": "Zoom Online",
+      "streamUrl": "https://zoom.us/j/3106916895",
+      "description": "Friday Revival"
     },
     {
-      "title": "Community Serve Day",
-      "category": "Outreach",
-      "start": "2026-10-24T09:00:00-04:00",
-      "end": "2026-10-24T12:00:00-04:00",
-      "location": "Community Center",
-      "description": "Help serve our neighbors."
-    },
-    {
-      "title": "Christmas Eve Service",
+      "title": "Watch Night Service",
       "category": "Worship",
-      "start": "2026-12-24T18:00:00-05:00",
-      "end": "2026-12-24T19:30:00-05:00",
-      "location": "Main Sanctuary",
-      "streamUrl": "https://www.youtube.com/"
+      "start": "2026-12-24T21:00:00-05:00",
+      "end": "2026-12-25T00:00:00-05:00",
+      "location": "DC Regional HQ",
+      "streamUrl": "https://www.youtube.com/@dclmdc"
     }
   ]
 }
